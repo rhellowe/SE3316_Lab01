@@ -16,14 +16,14 @@ nav {
 }
 
 h1, h2, h3 {
- font-family: Georgia, Cambria, "Times New Roman", cursive;
+ font-family: "Lobster", Georgia, Cambria, "Times New Roman", cursive;
 }
 h1 { font-size: 250%; }
 h2 { font-size: 150%; }
 h3 { font-size: 125% } 
 
 body {
- font-family: Helvetica, Arial, sans-serif;
+ font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 #reviews {
