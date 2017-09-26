@@ -12,12 +12,15 @@ h1, h2, h3 {
 }
 h1 { 
    font-size: 250%; 
-
+text‐transform: uppercase;
+letter‐spacing: 10px;
+text‐shadow: 3px 3px 3px rgba(0,0,0,0.3);
 } 
 
 body {
  font-family: Helvetica, Arial, sans-serif;
 }
+
 
 div { 
    margin: 2em; 
@@ -25,6 +28,16 @@ div {
    background-color: #FDFCDC;
 }
 
+p {
+margin‐bottom: 0.5em;
+}
 
+p#first {
+text‐align: right;
+}
+p#second {
+text‐indent: 2em;
+line‐height: 1.5em;
+}
 
 
