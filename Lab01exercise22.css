@@ -21,6 +21,30 @@ h1, h2, h3 {
 body {
  font-family: Georgia, Cambria, "Times New Roman", serif;
 }
+body {
+font‐size: 100%; /* about 16px */
+}
+h1 {
+font‐size: 24px; /* for older browsers */
+
+font‐size: 1.5rem;
+}
+h2 {
+font‐size: 18px;
+font‐size: 1.125rem;
+}
+h3 {
+font‐size: 16px;
+font‐size: 1rem;
+}
+p {
+font‐size: 16px;
+font‐size: 1rem;
+}
+.first, figcaption, h3+p {
+font‐size: 14px;
+font‐size: .875rem;
+}
 
 #reviews {
    border-bottom: solid 3pt #213643;
